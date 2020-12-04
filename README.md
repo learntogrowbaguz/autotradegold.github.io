@@ -1,0 +1,2 @@
+# autotradegold.github.io
+test
