@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="id-ID">
-  <!-- Mirrored from autotrade.id/verifikasi-akun/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Dec 2020 17:56:36 GMT --><!-- Added by HTTrack -->
+  <!-- Mirrored from autotrade.id/pendaftaran/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Dec 2020 17:56:32 GMT --><!-- Added by HTTrack -->
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <!-- /Added by HTTrack -->
@@ -9,8 +9,8 @@
     <script type="text/javascript">
 		document.documentElement.className = 'js';
 	</script>
-    <script>var et_site_url='../index.html';var et_post_id='485';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
-</script><title>Verifikasi Akun | Auto Trade</title>
+    <script>var et_site_url='../index.html';var et_post_id='468';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Pendaftaran | Auto Trade</title>
     <link rel="dns-prefetch" href="http://use.fontawesome.com/">
     <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
     <link rel="dns-prefetch" href="http://s.w.org/">
@@ -53,31 +53,31 @@ id="jquery-core-js"></script>
 id="es6-promise-js"></script>
     <script type="text/javascript" id="et-core-api-spam-recaptcha-js-extra">
 /* <![CDATA[ */
-var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"verifikasi_akun"}};
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"pendaftaran"}};
 /* ]]> */
 </script>
     <script type="text/javascript" src="../wp-content/themes/Divi/core/admin/js/recaptcha5697.js?ver=5.5.3"
 id="et-core-api-spam-recaptcha-js"></script>
     <link rel="https://api.w.org/" href="../wp-json/index.html">
-    <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/485.json">
+    <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/468.json">
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd">
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml">
     <meta name="generator" content="WordPress 5.5.3">
     <link rel="canonical" href="index.html">
-    <link rel="shortlink" href="../indexca96.html?p=485">
-    <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedb0d0.json?url=https%3A%2F%2Fautotrade.id%2Fverifikasi-akun%2F">
-    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embeddbaa?url=https%3A%2F%2Fautotrade.id%2Fverifikasi-akun%2F&amp;format=xml">
+    <link rel="shortlink" href="../index4c66.html?p=468">
+    <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedaf8f.json?url=https%3A%2F%2Fautotrade.id%2Fpendaftaran%2F">
+    <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed127f?url=https%3A%2F%2Fautotrade.id%2Fpendaftaran%2F&amp;format=xml">
     <link rel="dns-prefetch" href="http://use.fontawesome.com/">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <link rel="shortcut icon" href="#">
     <link rel="stylesheet" href="../../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-    <link rel="stylesheet" id="et-core-unified-tb-321-tb-378-485-cached-inline-styles"
-      href="../wp-content/et-cache/485/et-core-unified-tb-321-tb-378-485-16055605556948.min.css"
+    <link rel="stylesheet" id="et-core-unified-tb-321-tb-378-468-cached-inline-styles"
+      href="../wp-content/et-cache/468/et-core-unified-tb-321-tb-378-468-16054525587763.min.css"
       onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)">
-    <link rel="stylesheet" id="et-core-unified-485-cached-inline-styles" href="../wp-content/et-cache/485/et-core-unified-485-16055605556948.min.css"
+    <link rel="stylesheet" id="et-core-unified-468-cached-inline-styles" href="../wp-content/et-cache/468/et-core-unified-468-16054525587763.min.css"
       onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)">
   </head>
-  <body class="page-template-default page page-id-485 et-tb-has-template et-tb-has-header et-tb-has-footer et_pb_button_helper_class et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+  <body class="page-template-default page page-id-468 et-tb-has-template et-tb-has-header et-tb-has-footer et_pb_button_helper_class et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
     <div id="page-container">
       <div id="et-boc" class="et-boc">
         <header class="et-l et-l--header">
@@ -105,11 +105,11 @@ id="et-core-api-spam-recaptcha-js"></script>
                               <li class="first-level et_pb_menu_page_id-520 menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-520"><a
                                   href="#">Registrasi</a>
                                 <ul class="sub-menu">
-                                  <li class="second-level et_pb_menu_page_id-468 menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a
-                                      href="../pendaftaran/index.html">Pendaftaran
+                                  <li class="second-level et_pb_menu_page_id-468 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-468 current_page_item menu-item-519"><a
+                                      href="index.html" aria-current="page">Pendaftaran
                                       Broker</a></li>
-                                  <li class="second-level et_pb_menu_page_id-485 menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-485 current_page_item menu-item-518"><a
-                                      href="index.html" aria-current="page">Verifikasi</a></li>
+                                  <li class="second-level et_pb_menu_page_id-485 menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a
+                                      href="../verifikasi-akun/index.html">Verifikasi</a></li>
                                   <li class="second-level et_pb_menu_page_id-496 menu-item menu-item-type-post_type menu-item-object-page menu-item-517"><a
                                       href="../daftar-akun-trading-gold/index.html">Daftar
                                       Trading Gold</a></li>
@@ -143,7 +143,7 @@ id="et-core-api-spam-recaptcha-js"></script>
         <!-- .et-l -->
         <div id="et-main-area">
           <div id="main-content">
-            <article id="post-485" class="post-485 page type-page status-publish hentry">
+            <article id="post-468" class="post-468 page type-page status-publish hentry">
               <div class="entry-content">
                 <div class="et-l et-l--post">
                   <div class="et_builder_inner_content et_pb_gutters3">
@@ -152,12 +152,12 @@ id="et-core-api-spam-recaptcha-js"></script>
                         <div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
                           <div class="et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_light  et_pb_text_align_left">
                             <div class="et_pb_title_container">
-                              <h1 class="entry-title">Verifikasi Akun</h1>
+                              <h1 class="entry-title">Pendaftaran</h1>
                             </div>
                           </div>
                           <div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
                             <div class="et_pb_text_inner">Berikut ini adalah
-                              langkah-langkah verifikasi akun Panthera Trade</div>
+                              langkah-langkah pendaftaran broker Panthera Trade</div>
                           </div>
                           <!-- .et_pb_text --> </div>
                         <!-- .et_pb_column --> </div>
@@ -167,36 +167,50 @@ id="et-core-api-spam-recaptcha-js"></script>
                       <div class="et_pb_row et_pb_row_1">
                         <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
                           <div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
-                            <div class="et_pb_text_inner">
-                              <p>1. Pada halaman dashboard klik “Verify Account”</p>
-                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-1.jpg"
-                                  alt="" class="wp-image-491 alignnone size-full"
-                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-1.jpg 1062w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-1-980x461.jpg 980w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-1-480x226.jpg 480w"
-                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1062px, 100vw"
-                                  height="500" width="1062"></p>
-                              <p>2. Isi data – data Anda pada kolom yang
-                                disediakan. Berikutnya apabila sudah, jangan
-                                lupa untuk klik tombol update</p>
-                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-2.jpg"
-                                  alt="" class="wp-image-492 alignnone size-full"
-                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-2.jpg 1062w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-2-980x466.jpg 980w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-2-480x228.jpg 480w"
-                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1062px, 100vw"
-                                  height="505" width="1062"></p>
-                              <p>3. Akan ada pesan pemberitahuan data berhasil
-                                di update</p>
-                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-3.jpg"
-                                  alt="" class="wp-image-493 alignnone size-full"
-                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-3.jpg 1062w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-3-980x480.jpg 980w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-3-480x235.jpg 480w"
-                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1062px, 100vw"
-                                  height="520" width="1062"></p>
-                              <p>4. Dalam tahap ini data Anda sedang dalam tahap
-                                review dan proses verifikasi ini memakan waktu
-                                1×24 jam</p>
-                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-4.jpg"
-                                  alt="" class="wp-image-494 alignnone size-full"
-                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-4.jpg 1052w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-4-980x475.jpg 980w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-akun-panthera-trade-4-480x233.jpg 480w"
-                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1052px, 100vw"
-                                  height="510" width="1052"></p>
+                            <div class="et_pb_text_inner">1. Klik link
+                              pendaftaran di <a href="https://bit.ly/33Mx3iV">https://bit.ly/33Mx3iV</a><br>
+                              (Anda wajib menggunakan link diatas supaya dapat
+                              terhubung dengan jaringan perusahaan)
+                              <p></p>
+                              <p>2. Silahkan lengkapi data Anda, selanjutnya
+                                klik “<em>Register</em>”</p>
+                              <p><a href="https://bit.ly/33Mx3iV"><img loading="lazy"
+                                    src="../wp-content/uploads/2020/10/Pantheratrade-Pendaftaran.jpg"
+                                    alt="" class="wp-image-473 alignnone size-full"
+                                    srcset="https://autotrade.id/wp-content/uploads/2020/10/Pantheratrade-Pendaftaran.jpg 850w, https://autotrade.id/wp-content/uploads/2020/10/Pantheratrade-Pendaftaran-480x341.jpg 480w"
+                                    sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 850px, 100vw"
+                                    height="604" width="850"></a></p>
+                              <p>3. Buka Email Anda, Berikutnya buka email
+                                verifikasi yang diberikan</p>
+                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verifikasi-panthera-trade.jpg"
+                                  alt="" class="wp-image-474 alignnone size-full"
+                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verifikasi-panthera-trade.jpg 771w, https://autotrade.id/wp-content/uploads/2020/10/verifikasi-panthera-trade-480x127.jpg 480w"
+                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 771px, 100vw"
+                                  height="204" width="771"></p>
+                              <p>4. Masukkan kode verifikasi pada kolom yang
+                                telah disediakan</p>
+                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verfikasi-kode-panthera.jpg"
+                                  alt="" class="wp-image-475 alignnone size-full"
+                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verfikasi-kode-panthera.jpg 581w, https://autotrade.id/wp-content/uploads/2020/10/verfikasi-kode-panthera-480x394.jpg 480w"
+                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 581px, 100vw"
+                                  height="477" width="581"></p>
+                              <p>5. Berikutnya klik Accept Term untuk menyetujui
+                                Syarat dan Ketentuan</p>
+                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/verifikasi-panthera-trade-1.jpg"
+                                  alt="" class="wp-image-476 alignnone size-full"
+                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/verifikasi-panthera-trade-1.jpg 780w, https://autotrade.id/wp-content/uploads/2020/10/verifikasi-panthera-trade-1-480x303.jpg 480w"
+                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 780px, 100vw"
+                                  height="493" width="780"></p>
+                              <p>6. Anda telah berhasil mendaftar, kemudian
+                                jangan lupa untuk verifikasi akun, seperti
+                                berikut</p>
+                              <p><img loading="lazy" src="../wp-content/uploads/2020/10/pendaftaran-sukses-panthera-trade.jpg"
+                                  alt="" class="wp-image-477 alignnone size-full"
+                                  srcset="https://autotrade.id/wp-content/uploads/2020/10/pendaftaran-sukses-panthera-trade.jpg 780w, https://autotrade.id/wp-content/uploads/2020/10/pendaftaran-sukses-panthera-trade-480x327.jpg 480w"
+                                  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 780px, 100vw"
+                                  height="532" width="780"></p>
+                              <p>7. Langkah selanjutnya, klik cara verifikasi
+                                akun panthera trade</p>
                             </div>
                           </div>
                           <!-- .et_pb_text --> </div>
@@ -274,7 +288,7 @@ id="et-core-api-spam-recaptcha-js"></script>
                 <div class="et_pb_row et_pb_row_2_tb_footer et_pb_gutters3">
                   <div class="et_pb_column et_pb_column_1_2 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough">
                     <div class="et_pb_module et_pb_code et_pb_code_1_tb_footer">
-                      <div class="et_pb_code_inner"><a href="https://wa.me/message/VFBULCTA7JW3L1"
+                      <div class="et_pb_code_inner"><a href="https://wa.me/6285330200813?text=Halo%20autotrade.id%2C%20saya%20membutuhkan%20informasi%20dan%20bantuan%20terkait%20Robot%20Forex%20Gold"
                           target="_blank" title="Hubungi via whatsapp" rel="noopener noreferrer">
                           <div class="icon-wa"> <i class="fab fa-whatsapp"></i>
                             <div class="wa-wa">Whatsapp</div>
@@ -286,7 +300,7 @@ id="et-core-api-spam-recaptcha-js"></script>
                   <!-- .et_pb_column -->
                   <div class="et_pb_column et_pb_column_1_2 et_pb_column_3_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
                     <div class="et_pb_module et_pb_code et_pb_code_2_tb_footer">
-                      <div class="et_pb_code_inner"><a href="https://t.me/sandiwidigdo"
+                      <div class="et_pb_code_inner"><a href="https://t.me/autotradinggold"
                           target="_blank" title="Gabung Telegram" rel="noopener noreferrer">
                           <div class="icon-telegram"> <i class="fab fa-telegram"></i>
                             <div class="telegram">Telegram</div>
@@ -350,7 +364,7 @@ setup_collapsible_submenus();
 /* <![CDATA[ */
 var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
 var et_shortcodes_strings = {"previous":"Sebelumnya","next":"Lanjut"};
-var et_pb_custom = {"ajaxurl":"https:\/\/autotrade.id\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/autotrade.id\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/autotrade.id\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"6e73d91f6c","subscription_failed":"Silakan, periksa ladang di bawah ini untuk memastikan anda memasukkan informasi yang benar.","et_ab_log_nonce":"b69badf3c0","fill_message":"Silahkan, isi kolom berikut:","contact_error_message":"Perbaiki kesalahan-kesalahan berikut:","invalid":"Tidak valid email","captcha":"Captcha","prev":"Sebelum","previous":"Sebelumnya","next":"Berikutnya","wrong_captcha":"Anda memasukkan angka yang salah pada captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"485","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/autotrade.id\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/autotrade.id\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/autotrade.id\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"6e73d91f6c","subscription_failed":"Silakan, periksa ladang di bawah ini untuk memastikan anda memasukkan informasi yang benar.","et_ab_log_nonce":"b69badf3c0","fill_message":"Silahkan, isi kolom berikut:","contact_error_message":"Perbaiki kesalahan-kesalahan berikut:","invalid":"Tidak valid email","captcha":"Captcha","prev":"Sebelum","previous":"Sebelumnya","next":"Berikutnya","wrong_captcha":"Anda memasukkan angka yang salah pada captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"468","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_builder_utils_params = {"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
 var et_pb_box_shadow_elements = [];
 var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
 var et_pb_sticky_elements = {"et_pb_section_0_tb_header":{"id":"et_pb_section_0_tb_header","selector":".et_pb_section_0_tb_header","position":"top","topOffset":"0px","bottomOffset":"0px","topLimit":"none","bottomLimit":"none","offsetSurrounding":"on","transition":"on","styles":{"module_alignment":{"desktop":"","tablet":"","phone":""},"positioning":"relative"},"stickyStyles":{"position_origin_r":"top_left","horizontal_offset":"","vertical_offset":""}}};
@@ -363,6 +377,6 @@ id="et-core-common-js"></script>
     <script type="text/javascript" src="../wp-includes/js/wp-embed.min5697.js?ver=5.5.3"
 id="wp-embed-js"></script>
   </body>
-  <!-- Mirrored from autotrade.id/verifikasi-akun/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Dec 2020 17:56:41 GMT -->
+  <!-- Mirrored from autotrade.id/pendaftaran/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Dec 2020 17:56:36 GMT -->
 </html>
 <!-- Page generated by LiteSpeed Cache 3.5.2 on 2020-12-04 17:56:29 -->
